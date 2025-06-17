@@ -39,7 +39,7 @@ This project is designed to be run in **Google Colab**, but it will also work in
 
 ---
 
-## 📈 Key Results
+## Key Results
 
 - **Random Forest Model** achieved the best accuracy (~84%) and outperformed the simple gender-based rule.
 - **Important features**: Sex, Passenger Class, Fare, and Age
