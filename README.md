@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project uses the [Titanic dataset](https://www.kaggle.com/competitions/titanic/data) to predict which passengers were likely to survive the disaster. It walks through the complete machine learning pipeline — from data cleaning and exploration to model training, evaluation, and prediction.
+This project uses the [Titanic dataset](https://www.kaggle.com/competitions/titanic/data) to predict which passengers were likely to survive the disaster. It walks through the complete machine learning pipeline, from data cleaning and exploration to model training, evaluation, and prediction.
 
 Two models were trained and compared:
 - **Logistic Regression** (baseline model)
