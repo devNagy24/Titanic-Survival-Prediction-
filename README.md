@@ -5,8 +5,8 @@
 This project uses the [Titanic dataset](https://www.kaggle.com/competitions/titanic/data) to predict which passengers were likely to survive the disaster. It walks through the complete machine learning pipeline, from data cleaning and exploration to model training, evaluation, and prediction.
 
 Two models were trained and compared:
-- **Logistic Regression** (baseline model)
-- **Random Forest Classifier** (advanced model)
+- **Logistic Regression** 
+- **Random Forest Classifier** 
 
 I also compared model performance against a rule-based prediction (gender-based baseline) to demonstrate the advantage of learning from multiple features.
 
